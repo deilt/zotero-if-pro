@@ -9,7 +9,7 @@
 
 # Zotero IF Pro
 
-Zotero IF Pro 是对 Zotero 的一次重大革新，让 Zotero 文献管理、笔记以及知识复盘的效率提升到史无前例的新高度！
+Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以及知识复盘的效率提升到史无前例的新高度！
 
 
 
