@@ -38,17 +38,26 @@ Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高�
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451994.png)
 
-### 使用演示
+## 🔧 使用演示
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190941927.png)
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191519632.png" width=400 />
+</p>
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190942712.png)
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191520234.png" width=400 />
+</p>
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190942467.png)
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191520407.png" width=400 />
+</p>
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190943621.png)
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191521729.png" width=400 />
+</p>
 
-## 下载
+
+## 🦐 下载
 
 
 
