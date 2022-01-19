@@ -10,11 +10,6 @@
 # Zotero IF Pro
 Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高文献管理效率。
 
-## 下载
-
-<p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191456485.JPG" width=300 />
-</p>
 
 
 ## 特性
@@ -38,3 +33,17 @@ Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高�
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190942467.png)
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190943621.png)
+
+## 下载
+
+
+
+创作不易，Pro 版本采用付费方式，扫码获取。👇
+
+
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191456485.JPG" width=300 />
+</p>
+
+标准版将坚持开放下载。
+
