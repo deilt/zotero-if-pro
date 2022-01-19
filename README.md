@@ -12,15 +12,29 @@ Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高�
 
 
 
-## 特性
+## 💡 特性
+
+### 影响因子
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191448145.png)
 
+### 星标文献
+
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451771.png)
+
+### 标签集
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451728.png)
 
+### 归档
+
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451728.png)
+
+### 其他
+
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451091.png)
+
+### 使用演示
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451331.png)
 
