@@ -8,7 +8,8 @@
 
 
 # Zotero IF Pro
-Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高文献管理效率。
+
+Zotero IF Pro 是对 Zotero 的一次重大革新，让 Zotero 文献管理、笔记以及知识复盘的效率提升到史无前例的新高度！
 
 
 
