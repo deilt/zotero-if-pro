@@ -69,13 +69,13 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让 Zotero 文献管理、�
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191456485.JPG" width=300 />
 </p>
 
-[Zotero IF 标准版](https://github.com/qnscholar/zotero-if)会一直坚持免费下载。
+Ps：[Zotero IF 标准版](https://github.com/qnscholar/zotero-if)会一直坚持免费下载。
 
 ## ❤️ 关注我
 
 全网同名：青柠学术。👉   公众号 / 视频号 / [知乎](https://www.zhihu.com/people/qnscholar) / [B站](https://space.bilibili.com/524598505)
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171237137.png" width=800 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171237137.png" width=700 />
 </p>
 
