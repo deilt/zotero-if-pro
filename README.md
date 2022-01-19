@@ -45,5 +45,5 @@ Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高�
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191456485.JPG" width=300 />
 </p>
 
-[Zotero IF 标准版](https://github.com/qnscholar/zotero-if)将坚持开放下载。
+[Zotero IF 标准版](https://github.com/qnscholar/zotero-if)会一直坚持免费下载。
 
