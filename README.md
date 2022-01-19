@@ -38,12 +38,12 @@ Zotero IF 插件专业版，提供了更多实用功能，目标是显著提高�
 
 
 
-创作不易，Pro 版本采用付费方式，扫码获取。👇
+创作不易，Zotero IF Pro 版本采用付费方式，扫码获取。👇
 
 
 <p align="center">
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191456485.JPG" width=300 />
 </p>
 
-标准版将坚持开放下载。
+[Zotero IF 标准版](https://github.com/qnscholar/zotero-if)将坚持开放下载。
 
