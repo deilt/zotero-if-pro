@@ -42,7 +42,7 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 ## 🔧 使用演示
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191519632.png" width=600 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201251917289.png" width=600 />
 </p>
 
 <p align="center">
