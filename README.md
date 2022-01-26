@@ -25,7 +25,7 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 
 ### 标签集
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451728.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201262125052.png)
 
 ### 归档
 
