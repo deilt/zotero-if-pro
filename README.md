@@ -17,7 +17,7 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 
 ### 影响因子
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271416072.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271418331.png)
 
 ### 星标文献
 
@@ -35,9 +35,13 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271417958.png)
 
-### 更多
+### 拓展功能
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271417230.png)
+
+### 更多
+
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271419190.png)
 
 ## 🔧 使用演示
 
