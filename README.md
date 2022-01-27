@@ -17,27 +17,27 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 
 ### 影响因子
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191448145.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271416072.png)
 
 ### 星标文献
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451771.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271416108.png)
 
 ### 标签集
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201262125052.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271416253.png)
 
 ### 归档
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451091.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271417483.png)
 
 ### 语言设置
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451331.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271417958.png)
 
 ### 更多
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201191451994.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201271417230.png)
 
 ## 🔧 使用演示
 
