@@ -66,7 +66,7 @@ Zotero IF Pro 是对 Zotero 的一次重大革新，让文献管理、笔记以�
 
 
 
-创作不易，Zotero IF Pro 版本采用付费方式，扫码获取。👇
+创作不易，Zotero IF Pro 版本采用付费方式（一次购买，永久更新），扫码获取。👇
 
 
 <p align="center">
